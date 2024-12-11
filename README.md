@@ -6,7 +6,7 @@
 
 ## 🥸 About me
 
-🖖🏻 **My name is Vlad, I'm 21 years old. I have been programming games and applications for 3 years, trying different new
+🖖🏻 **My name is Vladislav, I'm 22 years old. I have been programming games and applications for 3 years, trying different new
 technologies in my projects.**
 
 👌🏻**I have development experience in small casual games, back-end, API, regional hackathon solutions and more.**
@@ -14,13 +14,8 @@ technologies in my projects.**
 🤌🏻**In my projects, I try to adhere to the basic design principles in OOP such as SOLID, GoF patterns, patterns like
 MVP, MVVM, MVC.**
 
-💻**Now I am finalizing my concept documents for larger projects and developing pet projects to expand my portfolio**
 
 🔍 **I am looking for a company or team that will warmly welcome my ideas and aspirations**
-
-## 📈GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limshok&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hackathons and Jams
 
@@ -42,16 +37,16 @@ MVP, MVVM, MVC.**
 
 <p style="align-items:center">
     <img src="https://img.shields.io/badge/-C%23-green">
-    <img src="https://img.shields.io/badge/Unity-Addressable-red">   
-    <img src="https://img.shields.io/badge/Unity-AssetBundles-red">  
-    <img src="https://img.shields.io/badge/Unity-DoTween-red">       
-    <img src="https://img.shields.io/badge/Unity-UIToolkit-red">     
-    <img src="https://img.shields.io/badge/Unity-DOTS-red">          
-    <img src="https://img.shields.io/badge/Unity-Entitas-red">       
-    <img src="https://img.shields.io/badge/Unity-PostProcessing-red">
+    <img src="https://img.shields.io/badge/Back--end-.NET8-blue">
+    <img src="https://img.shields.io/badge/Back--end-.NET7-blue">
     <img src="https://img.shields.io/badge/Back--end-.NET6-blue">
     <img src="https://img.shields.io/badge/Back--end-EntityFramework-blue">
-    <img src="https://img.shields.io/badge/Back--end-SQL-lightblue">
+    <img src="https://img.shields.io/badge/Back--end-PostgresSQL-lightblue">
+    <img src="https://img.shields.io/badge/Back--end-MSSQL-lightblue">
+    <img src="https://img.shields.io/badge/Back--end-RabbitMQ-lightblue">
+    <img src="https://img.shields.io/badge/Back--end-MassTransit-lightblue">
+    <img src="https://img.shields.io/badge/Back--end-REST-lightblue">
+    <img src="https://img.shields.io/badge/Back--end-GRPC-lightblue">
     <img src="https://img.shields.io/badge/Back--end-Docker-lightblue">
     <img src="https://img.shields.io/badge/SOLID-black">
     <img src="https://img.shields.io/badge/MVP-black">
